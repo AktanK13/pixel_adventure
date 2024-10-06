@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Pixel Advanture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_01.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1.2962,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 281.97808980095664,
+                "y": 235.68893689245488
+            }
+        },
+        "level_02.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1.269140625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 320.29547553093255,
+                "y": 183.98276392736227
+            }
+        }
+    },
+    "last.imagePath": "/Users/aktan/Documents/game_flame/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Pixel Advanture.tsx",
+        "level_01.tmx",
+        "level_02.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Pixel Advanture.tsx",
+        "level_02.tmx",
+        "level_01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
